@@ -1,5 +1,5 @@
-# Alura_Imersao_IA
-Integração com a API do Google Gemini utilizando a linguagem Ruby.
+# RUBY OCR IMAGE
+Integração com a API do Google Gemini utilizando a linguagem Ruby para realizar um OCR de uma imagem de um documento.
 
 O objetivo é enviar uma imagem de um documento para a API e obter um JSON com os dados obtidos pela leitura (OCR) dessa imagem, esses dados poderão ser utilizados para um registro/entrada automatizada desse documento na nossa aplicação. Hoje esse registro é realizado manualmente no sistema. 
 
