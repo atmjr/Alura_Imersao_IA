@@ -4,7 +4,7 @@ require 'rest-client'
 require 'base64'
 
 # Sua API Key gerada pelo Google Ai Studio
-API_KEY = "AIzaSyCfvb8Yc4xafv9brQufaHUKQ0wiq2hsVAs"
+API_KEY = "sua_api_key"
 
 # URL do google gemini
 gemini_url =  "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent?key=#{API_KEY}"
