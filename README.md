@@ -9,7 +9,9 @@ Nesse protótipo de integração com o Gemini, utilizamos a linguagem Ruby na ve
 
 Para a integração se conectar com a API do Google Gemini é necessário a API KEY.
 
-Exemplo do retorno da API para a imagem "Img_DTA.png" usada nessa integração. Todos os dados obtidos e lidos da imagem estão abaixo: No da declaração, tipo, Via de Transporte, etc.
+Prompt que foi enviado ao modelo junto com a imagem do documento: "Essa imagem é de uma declaração de transporte aduaneira, gere um arquivo JSON com os dados dessa imagem."
+
+Abaixo o retorno da API para a imagem "Img_DTA.png" usada nessa integração. Todos os dados obtidos e lidos da imagem estão abaixo: No da declaração, tipo, Via de Transporte, etc.
 
 
 {
